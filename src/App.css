@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.dog-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Center both horizontally and vertically */
+  border: 1px solid #646cff;
+  background-color: #edecec;
+  padding: 5px;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+}
+
+.dog-image {
+  max-width: 100%;
+  max-height: 80%;
+  border-radius: 10px;
+  object-fit: cover; /* or contain, depending on your preference */
+}
+
+.dog-info {
+  padding: 10px;
+}
+
+.dog-info button {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #646cff;
+  color: white;
+  cursor: pointer;
+}
+
+.dog-info button:hover {
+  background-color: whitesmoke;
+  border: 1px solid #4a4aff;
+  color: black;
+}
+
+.error-message {
+  border: 1px solid #4a4aff;
+  background-color: #f9f9f9;
+  color: red;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
