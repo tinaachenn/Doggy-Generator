@@ -38,7 +38,16 @@ Here's a walkthrough of implemented user stories:
     </a>
     <a href="https://www.loom.com/share/6404d9e350064a9da7a965ade0f4241c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6404d9e350064a9da7a965ade0f4241c-with-play.gif">
-    <p>Video Gif</p>
+    <!-- <p>Video Gif</p> -->
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.loom.com/share/2f6639130440498a9f4c1f79f59100fa">
+      <p>Video Walkthrough</p>
+    </a>
+    <a href="https://www.loom.com/share/2f6639130440498a9f4c1f79f59100fa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2f6639130440498a9f4c1f79f59100fa-with-play.gif">
     </a>
   </div>
 
